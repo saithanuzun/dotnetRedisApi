@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wij/Iza0UBDQtxyZ0pz7ybmde0A4Zyz73F6NuoSDf5w=",
+  "Source": "dotnetRedis",
+  "BasePath": "_content/dotnetRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
